@@ -1,13 +1,14 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Bachelor of Science, Computer Science & Mathematics
+  uni: Hong Kong University of Science and Technology(HKUST)
+  year: 2020 &mdash; 2024
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: First Class Honor
+    - award: Scholarships for Continuing students (2021,2022,2023)
+  Related Courseworks: Programming with C++, Data Structures and Algorithms, Operating Systems, Computer Organization, Machine Learning,
+  Deep Learning in Computer Vision, and many many CS and Math courses in different areas...
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Master of Science, Computer Science and Engineering
+  uni: University of California, San Diego
+  year: 2024 &mdash; 2026 March
+  Related Courseworks: Algorithm Design and Analysis, Graduate Networked Systems, Computer Architecture, Operating Systems Principles, Systems for LLMs and AI Agents, Deep Learning 
