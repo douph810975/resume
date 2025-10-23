@@ -1,19 +1,22 @@
-# Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Experience
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Wave Dynamics
+  position: Software Engineer Intern
+  duration: Sep 2025 &mdash; Present
+  summary: >
+    Contributed to developing a high-performance full-stack ticketing platform ([Wave Dynamics](https://wave.vip/)).
 
+- company: Alibaba Group
+  position: Software Engineer Intern (LLM Applications)
+  duration: June 2025 &mdash; Aug 2025
+  summary: >
+    Architected and implemented a Model Context Protocol (MCP) server. 
+    Contributed to Alibaba’s open-source project [ROLL (Reinforcement Learning Optimization for Large-Scale Learning)](https://github.com/alibaba/ROLL) by implementing `MCPEnv` as a custom reinforcement learning environment.
+    Independently designed and built a full-stack web platform for RL model services, integrating dynamic Docker orchestration, real-time container management, and multi-cloud deployment via a unified React-based interface.
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Travelsky Mobile Technology Limited
+  position: Software Engineer Intern (Computer Vision)
+  duration: May 2023 &mdash; Aug 2023
+  summary: >
+    Built a real-time Computer Vision platform at Chengdu Shuangliu International Airport, processing video streams from 8 camera stations and supporting 20+ distinct alert categories for automated monitoring and warning services.
+    
