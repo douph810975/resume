@@ -1,16 +1,25 @@
 # Projects
-# uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: Identification of Collusive Adversaries from a Single Adversarial Example via Machine Learning Watermarks
+  role: Algorithm Design & Model Training
+  duration: Sep 2023 &mdash; Apr 2024
+  url: "https://github.com/HUWENBIN2024/fyp_adv_collusion_tracing"
+  description: >
+    Designed a machine learning watermarking framework to trace and identify collusive adversaries exploiting a single adversarial example. 
+    Proposed a scalable tracing mechanism capable of distinguishing multiple collaborating attackers, improving model forensics and accountability in adversarial machine learning.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Online Game Shop
+  role: Backend Development
+  duration: Oct 2023 &mdash; Dec 2023
+  url: "https://github.com/douph810975/Game-shop"
+  description: >
+    Developed a full-stack online game marketplace similar to Steam. 
+    Implemented backend services with Java, MySQL and Redis to support user registration, login, and shopping cart functionalities for purchasing games.
+
+- project: Medical RAG System
+  role: Contributor
+  duration: Sep 2025 &mdash; Dec 2025 (Expected)
+  url: "https://github.com/Luyu-H/Domain-RAG-System"
+  description: >
+    An ongoing Medical Retrieval-Augmented Generation (RAG) system utilizing OpenFDA drug labeling data, BioASQ tasks, and MIRAGE Benchmark datasets. 
+    The system is currently being designed to improve domain-specific retrieval and response generation for medical applications.
